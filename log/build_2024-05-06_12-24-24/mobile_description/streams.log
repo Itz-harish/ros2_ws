@@ -1,0 +1,38 @@
+[0.360s] Invoking command in '/home/harish/ros2_ws/build/mobile_description': PYTHONPATH=/home/harish/ros2_ws/build/mobile_description/prefix_override:/home/harish/ros2_ws/install/mobile_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/harish/ros2_ws/build/mobile_description/build
+[0.509s] running develop
+[0.595s] Removing /home/harish/ros2_ws/install/mobile_description/lib/python3.10/site-packages/mobile-description.egg-link (link to .)
+[0.613s] Invoked command in '/home/harish/ros2_ws/build/mobile_description' returned '0': PYTHONPATH=/home/harish/ros2_ws/build/mobile_description/prefix_override:/home/harish/ros2_ws/install/mobile_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/harish/ros2_ws/build/mobile_description/build
+[0.614s] Invoking command in '/home/harish/ros2_ws/src/mobile_description': PYTHONPATH=/home/harish/ros2_ws/build/mobile_description/prefix_override:/home/harish/ros2_ws/install/mobile_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/mobile_description build --build-base /home/harish/ros2_ws/build/mobile_description/build install --record /home/harish/ros2_ws/build/mobile_description/install.log --single-version-externally-managed install_data --force
+[0.748s] running egg_info
+[0.748s] writing ../../build/mobile_description/mobile_description.egg-info/PKG-INFO
+[0.748s] writing dependency_links to ../../build/mobile_description/mobile_description.egg-info/dependency_links.txt
+[0.748s] writing entry points to ../../build/mobile_description/mobile_description.egg-info/entry_points.txt
+[0.748s] writing requirements to ../../build/mobile_description/mobile_description.egg-info/requires.txt
+[0.748s] writing top-level names to ../../build/mobile_description/mobile_description.egg-info/top_level.txt
+[0.749s] reading manifest file '../../build/mobile_description/mobile_description.egg-info/SOURCES.txt'
+[0.749s] writing manifest file '../../build/mobile_description/mobile_description.egg-info/SOURCES.txt'
+[0.749s] running build
+[0.750s] running build_py
+[0.750s] running install
+[0.750s] running install_lib
+[0.750s] creating /home/harish/ros2_ws/install/mobile_description/lib/python3.10/site-packages/mobile_description
+[0.750s] copying /home/harish/ros2_ws/build/mobile_description/build/lib/mobile_description/__init__.py -> /home/harish/ros2_ws/install/mobile_description/lib/python3.10/site-packages/mobile_description
+[0.750s] byte-compiling /home/harish/ros2_ws/install/mobile_description/lib/python3.10/site-packages/mobile_description/__init__.py to __init__.cpython-310.pyc
+[0.750s] running install_data
+[0.751s] copying resource/mobile_description -> /home/harish/ros2_ws/install/mobile_description/share/ament_index/resource_index/packages
+[0.751s] copying package.xml -> /home/harish/ros2_ws/install/mobile_description/share/mobile_description
+[0.751s] copying launch/gazebo.launch.py -> /home/harish/ros2_ws/install/mobile_description/share/mobile_description/launch
+[0.751s] copying launch/display.launch.py -> /home/harish/ros2_ws/install/mobile_description/share/mobile_description/launch
+[0.751s] copying urdf/mobile.trans -> /home/harish/ros2_ws/install/mobile_description/share/mobile_description/urdf
+[0.751s] copying urdf/mobile.gazebo -> /home/harish/ros2_ws/install/mobile_description/share/mobile_description/urdf
+[0.751s] copying urdf/materials.xacro -> /home/harish/ros2_ws/install/mobile_description/share/mobile_description/urdf
+[0.751s] copying urdf/mobile.xacro -> /home/harish/ros2_ws/install/mobile_description/share/mobile_description/urdf
+[0.751s] copying meshes/base_link.stl -> /home/harish/ros2_ws/install/mobile_description/share/mobile_description/meshes
+[0.751s] copying meshes/left_wheel_1.stl -> /home/harish/ros2_ws/install/mobile_description/share/mobile_description/meshes
+[0.751s] copying meshes/right_wheel_1.stl -> /home/harish/ros2_ws/install/mobile_description/share/mobile_description/meshes
+[0.751s] copying config/display.rviz -> /home/harish/ros2_ws/install/mobile_description/share/mobile_description/config
+[0.751s] running install_egg_info
+[0.752s] Copying ../../build/mobile_description/mobile_description.egg-info to /home/harish/ros2_ws/install/mobile_description/lib/python3.10/site-packages/mobile_description-0.0.0-py3.10.egg-info
+[0.752s] running install_scripts
+[0.764s] writing list of installed files to '/home/harish/ros2_ws/build/mobile_description/install.log'
+[0.779s] Invoked command in '/home/harish/ros2_ws/src/mobile_description' returned '0': PYTHONPATH=/home/harish/ros2_ws/build/mobile_description/prefix_override:/home/harish/ros2_ws/install/mobile_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/mobile_description build --build-base /home/harish/ros2_ws/build/mobile_description/build install --record /home/harish/ros2_ws/build/mobile_description/install.log --single-version-externally-managed install_data --force

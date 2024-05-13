@@ -1,0 +1,17 @@
+[0.352s] Invoking command in '/home/harish/ros2_ws/build/mobile_description': PYTHONPATH=/home/harish/ros2_ws/build/mobile_description/prefix_override:/home/harish/ros2_ws/install/mobile_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/harish/ros2_ws/build/mobile_description/build --no-deps symlink_data
+[0.500s] running develop
+[0.583s] running egg_info
+[0.583s] writing mobile_description.egg-info/PKG-INFO
+[0.583s] writing dependency_links to mobile_description.egg-info/dependency_links.txt
+[0.583s] writing entry points to mobile_description.egg-info/entry_points.txt
+[0.583s] writing requirements to mobile_description.egg-info/requires.txt
+[0.583s] writing top-level names to mobile_description.egg-info/top_level.txt
+[0.584s] reading manifest file 'mobile_description.egg-info/SOURCES.txt'
+[0.585s] writing manifest file 'mobile_description.egg-info/SOURCES.txt'
+[0.585s] running build_ext
+[0.585s] Creating /home/harish/ros2_ws/install/mobile_description/lib/python3.10/site-packages/mobile-description.egg-link (link to .)
+[0.586s] 
+[0.586s] Installed /home/harish/ros2_ws/build/mobile_description
+[0.586s] running symlink_data
+[0.586s] error: can't copy '/home/harish/ros2_ws/build/mobile_description/urdf/ros2_control.xacro': doesn't exist or not a regular file
+[0.604s] Invoked command in '/home/harish/ros2_ws/build/mobile_description' returned '1': PYTHONPATH=/home/harish/ros2_ws/build/mobile_description/prefix_override:/home/harish/ros2_ws/install/mobile_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/harish/ros2_ws/build/mobile_description/build --no-deps symlink_data

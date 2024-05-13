@@ -1,0 +1,16 @@
+[0.404s] Invoking command in '/home/harish/ros2_ws/build/mobile_description': PYTHONPATH=/home/harish/ros2_ws/build/mobile_description/prefix_override:/home/harish/ros2_ws/install/mobile_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/harish/ros2_ws/build/mobile_description/build --no-deps install_data
+[0.550s] running develop
+[0.627s] running egg_info
+[0.627s] writing mobile_description.egg-info/PKG-INFO
+[0.627s] writing dependency_links to mobile_description.egg-info/dependency_links.txt
+[0.627s] writing entry points to mobile_description.egg-info/entry_points.txt
+[0.627s] writing requirements to mobile_description.egg-info/requires.txt
+[0.627s] writing top-level names to mobile_description.egg-info/top_level.txt
+[0.628s] reading manifest file 'mobile_description.egg-info/SOURCES.txt'
+[0.628s] writing manifest file 'mobile_description.egg-info/SOURCES.txt'
+[0.629s] running build_ext
+[0.629s] Creating /home/harish/ros2_ws/install/mobile_description/lib/python3.10/site-packages/mobile-description.egg-link (link to .)
+[0.630s] 
+[0.630s] Installed /home/harish/ros2_ws/build/mobile_description
+[0.630s] running install_data
+[0.649s] Invoked command in '/home/harish/ros2_ws/build/mobile_description' returned '0': PYTHONPATH=/home/harish/ros2_ws/build/mobile_description/prefix_override:/home/harish/ros2_ws/install/mobile_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/harish/ros2_ws/build/mobile_description/build --no-deps install_data

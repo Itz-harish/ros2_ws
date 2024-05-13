@@ -1,0 +1,22 @@
+[0.471s] Invoking command in '/home/harish/ros2_ws/src/mobile_description': PYTHONPATH=/home/harish/ros2_ws/build/mobile_description/prefix_override:/home/harish/ros2_ws/install/mobile_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mobile_description build --build-base /home/harish/ros2_ws/build/mobile_description/build install --record /home/harish/ros2_ws/build/mobile_description/install.log --install-scripts $base/lib/mobile_description --single-version-externally-managed
+[0.587s] /home/harish/.local/lib/python3.10/site-packages/setuptools/dist.py:717: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[0.587s]   warnings.warn(
+[0.602s] running egg_info
+[0.602s] writing ../../build/mobile_description/mobile_description.egg-info/PKG-INFO
+[0.603s] writing dependency_links to ../../build/mobile_description/mobile_description.egg-info/dependency_links.txt
+[0.603s] writing entry points to ../../build/mobile_description/mobile_description.egg-info/entry_points.txt
+[0.603s] writing requirements to ../../build/mobile_description/mobile_description.egg-info/requires.txt
+[0.603s] writing top-level names to ../../build/mobile_description/mobile_description.egg-info/top_level.txt
+[0.604s] reading manifest file '../../build/mobile_description/mobile_description.egg-info/SOURCES.txt'
+[0.605s] writing manifest file '../../build/mobile_description/mobile_description.egg-info/SOURCES.txt'
+[0.605s] running build
+[0.605s] running build_py
+[0.605s] running install
+[0.606s] running install_lib
+[0.606s] running install_data
+[0.608s] running install_egg_info
+[0.608s] removing '/home/harish/ros2_ws/install/mobile_description/lib/python3.10/site-packages/mobile_description-0.0.0-py3.10.egg-info' (and everything under it)
+[0.609s] Copying ../../build/mobile_description/mobile_description.egg-info to /home/harish/ros2_ws/install/mobile_description/lib/python3.10/site-packages/mobile_description-0.0.0-py3.10.egg-info
+[0.609s] running install_scripts
+[0.621s] writing list of installed files to '/home/harish/ros2_ws/build/mobile_description/install.log'
+[0.638s] Invoked command in '/home/harish/ros2_ws/src/mobile_description' returned '0': PYTHONPATH=/home/harish/ros2_ws/build/mobile_description/prefix_override:/home/harish/ros2_ws/install/mobile_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mobile_description build --build-base /home/harish/ros2_ws/build/mobile_description/build install --record /home/harish/ros2_ws/build/mobile_description/install.log --install-scripts $base/lib/mobile_description --single-version-externally-managed

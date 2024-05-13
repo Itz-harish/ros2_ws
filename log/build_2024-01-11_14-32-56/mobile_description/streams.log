@@ -1,0 +1,18 @@
+[0.402s] Invoking command in '/home/harish/ros2_ws/build/mobile_description': PYTHONPATH=/home/harish/ros2_ws/build/mobile_description/prefix_override:/home/harish/ros2_ws/install/mobile_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/harish/ros2_ws/build/mobile_description/build --no-deps install_data
+[0.542s] running develop
+[0.618s] running egg_info
+[0.618s] writing mobile_description.egg-info/PKG-INFO
+[0.618s] writing dependency_links to mobile_description.egg-info/dependency_links.txt
+[0.618s] writing entry points to mobile_description.egg-info/entry_points.txt
+[0.618s] writing requirements to mobile_description.egg-info/requires.txt
+[0.618s] writing top-level names to mobile_description.egg-info/top_level.txt
+[0.619s] reading manifest file 'mobile_description.egg-info/SOURCES.txt'
+[0.619s] writing manifest file 'mobile_description.egg-info/SOURCES.txt'
+[0.620s] running build_ext
+[0.620s] Creating /home/harish/ros2_ws/install/mobile_description/lib/python3.10/site-packages/mobile-description.egg-link (link to .)
+[0.621s] 
+[0.621s] Installed /home/harish/ros2_ws/build/mobile_description
+[0.621s] running install_data
+[0.621s] copying urdf/mobile.xacro -> /home/harish/ros2_ws/install/mobile_description/share/mobile_description/urdf
+[0.621s] copying config/my_controllers.yaml -> /home/harish/ros2_ws/install/mobile_description/share/mobile_description/config
+[0.640s] Invoked command in '/home/harish/ros2_ws/build/mobile_description' returned '0': PYTHONPATH=/home/harish/ros2_ws/build/mobile_description/prefix_override:/home/harish/ros2_ws/install/mobile_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/harish/ros2_ws/build/mobile_description/build --no-deps install_data

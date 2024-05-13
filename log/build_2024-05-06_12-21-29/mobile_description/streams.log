@@ -1,0 +1,25 @@
+[0.356s] Invoking command in '/home/harish/ros2_ws/build/mobile_description': PYTHONPATH=/home/harish/ros2_ws/build/mobile_description/prefix_override:/home/harish/ros2_ws/install/mobile_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/harish/ros2_ws/build/mobile_description/build --no-deps symlink_data --force
+[0.473s] /home/harish/.local/lib/python3.10/site-packages/setuptools/dist.py:717: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[0.473s]   warnings.warn(
+[0.503s] running develop
+[0.584s] running egg_info
+[0.584s] writing mobile_description.egg-info/PKG-INFO
+[0.584s] writing dependency_links to mobile_description.egg-info/dependency_links.txt
+[0.584s] writing entry points to mobile_description.egg-info/entry_points.txt
+[0.584s] writing requirements to mobile_description.egg-info/requires.txt
+[0.584s] writing top-level names to mobile_description.egg-info/top_level.txt
+[0.586s] reading manifest file 'mobile_description.egg-info/SOURCES.txt'
+[0.586s] writing manifest file 'mobile_description.egg-info/SOURCES.txt'
+[0.587s] running build_ext
+[0.587s] Creating /home/harish/ros2_ws/install/mobile_description/lib/python3.10/site-packages/mobile-description.egg-link (link to .)
+[0.587s] 
+[0.587s] Installed /home/harish/ros2_ws/build/mobile_description
+[0.587s] running symlink_data
+[0.588s] symbolically linking /home/harish/ros2_ws/build/mobile_description/resource/mobile_description -> /home/harish/ros2_ws/install/mobile_description/share/ament_index/resource_index/packages
+[0.588s] symbolically linking /home/harish/ros2_ws/build/mobile_description/package.xml -> /home/harish/ros2_ws/install/mobile_description/share/mobile_description
+[0.588s] symbolically linking /home/harish/ros2_ws/build/mobile_description/launch/gazebo.launch.py -> /home/harish/ros2_ws/install/mobile_description/share/mobile_description/launch
+[0.588s] symbolically linking /home/harish/ros2_ws/build/mobile_description/launch/display.launch.py -> /home/harish/ros2_ws/install/mobile_description/share/mobile_description/launch
+[0.588s] symbolically linking /home/harish/ros2_ws/build/mobile_description/urdf/mobile.trans -> /home/harish/ros2_ws/install/mobile_description/share/mobile_description/urdf
+[0.588s] symbolically linking /home/harish/ros2_ws/build/mobile_description/urdf/mobile.gazebo -> /home/harish/ros2_ws/install/mobile_description/share/mobile_description/urdf
+[0.588s] error: can't copy '/home/harish/ros2_ws/build/mobile_description/urdf/ros2_control.xacro': doesn't exist or not a regular file
+[0.607s] Invoked command in '/home/harish/ros2_ws/build/mobile_description' returned '1': PYTHONPATH=/home/harish/ros2_ws/build/mobile_description/prefix_override:/home/harish/ros2_ws/install/mobile_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/harish/ros2_ws/build/mobile_description/build --no-deps symlink_data --force

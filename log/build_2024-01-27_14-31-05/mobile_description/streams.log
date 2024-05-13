@@ -1,0 +1,21 @@
+[0.422s] Invoking command in '/home/harish/ros2_ws/src/mobile_description': PYTHONPATH=/home/harish/ros2_ws/build/mobile_description/prefix_override:/home/harish/ros2_ws/install/mobile_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mobile_description build --build-base /home/harish/ros2_ws/build/mobile_description/build install --record /home/harish/ros2_ws/build/mobile_description/install.log --single-version-externally-managed
+[0.557s] running egg_info
+[0.557s] writing ../../build/mobile_description/mobile_description.egg-info/PKG-INFO
+[0.557s] writing dependency_links to ../../build/mobile_description/mobile_description.egg-info/dependency_links.txt
+[0.557s] writing entry points to ../../build/mobile_description/mobile_description.egg-info/entry_points.txt
+[0.557s] writing requirements to ../../build/mobile_description/mobile_description.egg-info/requires.txt
+[0.557s] writing top-level names to ../../build/mobile_description/mobile_description.egg-info/top_level.txt
+[0.558s] reading manifest file '../../build/mobile_description/mobile_description.egg-info/SOURCES.txt'
+[0.559s] writing manifest file '../../build/mobile_description/mobile_description.egg-info/SOURCES.txt'
+[0.559s] running build
+[0.559s] running build_py
+[0.559s] running install
+[0.559s] running install_lib
+[0.559s] running install_data
+[0.560s] copying urdf/gazebo_control.xacro -> /home/harish/ros2_ws/install/mobile_description/share/mobile_description/urdf
+[0.560s] running install_egg_info
+[0.561s] removing '/home/harish/ros2_ws/install/mobile_description/lib/python3.10/site-packages/mobile_description-0.0.0-py3.10.egg-info' (and everything under it)
+[0.561s] Copying ../../build/mobile_description/mobile_description.egg-info to /home/harish/ros2_ws/install/mobile_description/lib/python3.10/site-packages/mobile_description-0.0.0-py3.10.egg-info
+[0.561s] running install_scripts
+[0.574s] writing list of installed files to '/home/harish/ros2_ws/build/mobile_description/install.log'
+[0.591s] Invoked command in '/home/harish/ros2_ws/src/mobile_description' returned '0': PYTHONPATH=/home/harish/ros2_ws/build/mobile_description/prefix_override:/home/harish/ros2_ws/install/mobile_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mobile_description build --build-base /home/harish/ros2_ws/build/mobile_description/build install --record /home/harish/ros2_ws/build/mobile_description/install.log --single-version-externally-managed

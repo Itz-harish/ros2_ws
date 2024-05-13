@@ -1,0 +1,6 @@
+Invoking command in '/home/harish/ros2_ws/build/mobile_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/harish/ros2_ws/src/mobile_description -DCMAKE_INSTALL_PREFIX=/home/harish/ros2_ws/install/mobile_description
+Invoked command in '/home/harish/ros2_ws/build/mobile_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/harish/ros2_ws/src/mobile_description -DCMAKE_INSTALL_PREFIX=/home/harish/ros2_ws/install/mobile_description
+Invoking command in '/home/harish/ros2_ws/build/mobile_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/harish/ros2_ws/build/mobile_description -- -j12 -l12
+Invoked command in '/home/harish/ros2_ws/build/mobile_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/harish/ros2_ws/build/mobile_description -- -j12 -l12
+Invoking command in '/home/harish/ros2_ws/build/mobile_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/harish/ros2_ws/build/mobile_description
+Invoked command in '/home/harish/ros2_ws/build/mobile_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/harish/ros2_ws/build/mobile_description
